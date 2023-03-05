@@ -40,7 +40,7 @@ namespace Workshop
 
 
 
-            return result;
+            return 0;
         }
     }
 }
